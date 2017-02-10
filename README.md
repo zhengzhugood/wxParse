@@ -1,7 +1,7 @@
 
 <p align="center"><a href="https://github.com/icindy/wxParse" target="_blank"><img src="screenshoot/wxParse_logo.jpg"></a></p>
 <p align="center"><a href="https://github.com/icindy/wxParse" target="_blank"><img src="screenshoot/weappmsg_qr.jpg"></a></p>
-<h1 align="center" style="margin-bottom: 20px;">wxParse-微信小程序富文本解析组件（主要是小程序的html代码的转换）</h1>
+<h1 align="center" style="margin-bottom: 20px;">wxParse-微信小程序富文本解析组件（主要是小程序的代码的转换）</h1>
 <h2 align="center">支持Html及markdown转wxml可视化</h2>
 <p align="center"><code>版本号:0.3</code></p>
 <p align="center">来源: [微信小程序开发论坛-weappdev](https://weappdev.com)</p>
